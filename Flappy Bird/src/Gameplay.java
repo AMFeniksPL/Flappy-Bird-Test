@@ -6,7 +6,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 public class Gameplay extends JPanel implements KeyListener, ActionListener {
-
+    // CZY TO SIĘ POJAWI NA GITHUBIE?
     //Zmienne przechowujące współrzędne Birda
     private int x = 150;
     private int y = 300;
